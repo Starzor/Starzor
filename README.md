@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starzor
 - 👀 I’m interested in Python and Java.
-- 🌱 I’m currently learning Java,
+- 🌱 I’m currently learning Java and how to use git!
 - 💞️ I’m looking to collaborate on nothing rn, will update.
 - 📫 How to reach me discord: Starzor#7497
 
