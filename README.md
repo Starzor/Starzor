@@ -1,6 +1,6 @@
 Hello there, I am Starzor. 
 I use this repository for my personal projects.
-I currently work as a Google cloud developer.
+I currently work as a developer with Google Cloud.
 
 <!---
 Starzor/Starzor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
